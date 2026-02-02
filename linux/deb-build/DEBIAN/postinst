@@ -1,0 +1,15 @@
+#!/bin/bash
+set -e
+
+# Set permissions for NetworkManager profiles
+chmod 600 /etc/NetworkManager/system-connections/IIITM_Secure.nmconnection
+chmod 600 /etc/NetworkManager/system-connections/IIITM_Secure_5G.nmconnection
+
+# Update CA certificates
+update-ca-certificates
+
+# Reload NetworkManager to pick up new profiles
+nmcli connection reload
+
+echo "IIITM Secure Wi-Fi configuration complete."
+echo "Please select IIITM_Secure from your Wi-Fi menu to connect."

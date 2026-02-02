@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>IIITM CA Certificate</string>
+			<key>PayloadIdentifier</key>
+			<string>in.ac.iiitm.secure.wifi.ca</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>D4E5F6A7-B8C9-4AD0-E1F2-A3B4C5D6E7F8</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadContent</key>
+			<data>
+			MIIGFDCCA/ygAwIBAgIIOYUyzTvEc1EwDQYJKoZIhvcNAQELBQAwXzERMA8G
+			A1UEAxMISUlJVE0tQ0ExCzAJBgNVBAYTAklOMQswCQYDVQQIEwJNUDEQMA4G
+			A1UEBxMHR1dBTElPUjERMA8GA1UEChMIQUJWSUlJVE0xCzAJBgNVBAsTAkND
+			MB4XDTI2MDEwODEyMTUwMFoXDTM2MDEwNjEyMTUwMFowXzERMA8GA1UEAxMI
+			SUlJVE0tQ0ExCzAJBgNVBAYTAklOMQswCQYDVQQIEwJNUDEQMA4GA1UEBxMH
+			R1dBTElPUjERMA8GA1UEChMIQUJWSUlJVE0xCzAJBgNVBAsTAkNDMIICIjAN
+			BgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAp4SgmQb9ifczQNgcHuWKfrP6
+			LZiCkXeDNIEHJBjslF24qQYOPUMc8XnmIIZGq+MVyA5MOrQ4nB2RLBLmTU5g
+			zvU9KXPs8AwcrMFzro1ZnOFufvUmv2Ib6Py9VZTzWJ7gonGT4Uprhd60JVI7
+			nPA7GSXPLANxhVitmbsU+ZuIO7EMg1KDnrpYyvcUn3XAYSdWsRnr9Ln6aZdQ
+			QT+ugxcJZN09X9pGCYrRXLe+ZOX+PuHVMA4iKtVz8KlBohaHJ3fQMqu2/rVw
+			jiCbOWe3wKL88ltfOoo+juBbOqe5vEhjmfD0ge5RTYfLwGc1zQyNvBY4fRGH
+			DDP+QjuEp8ABaBm8ssBby+vKhftZgj/VLQH5IoQtrwV6tOiktB2AaF2ASXp2
+			/FXMRhigdINi2b1bKtXHTLY8Jo3Fnsrh5fenBbfG+XyMWK1fQ4kqzUCYuq72
+			mmw1tieKgviX1cM3k9xuco20X7yp5SwAY03kV2iPN9GcFfJsQwNc1BPSKGtd
+			vAEJCmlJ/J5oeo8VjQjTpn3PZJSrpnafGkshVYLhKRKJgvpUKnINwEgXWjdB
+			4SU6deyaUWX9Q/3gleGaYWlGIBDRQDoXFbh0vQ6wlu3ZNhcYl2IvPUUzf0WS
+			u6M0o3befjUdxBxr5VcK7SFh6hwFibPlhog+aULaLWo61WY/ERF4EZf8Iq0C
+			AwEAAaOB0zCB0DAdBgNVHQ4EFgQUjwiOmgVF6vkT+ukhrDFUU9VUx5IwgZAG
+			A1UdIwSBiDCBhYAUjwiOmgVF6vkT+ukhrDFUU9VUx5KhY6RhMF8xETAPBgNV
+			BAMTCElJSVRNLUNBMQswCQYDVQQGEwJJTjELMAkGA1UECBMCTVAxEDAOBgNV
+			BAcTB0dXQUxJT1IxETAPBgNVBAoTCEFCVklJSVRNMQswCQYDVQQLEwJDQ4II
+			OYUyzTvEc1EwDwYDVR0TAQH/BAUwAwEB/zALBgNVHQ8EBAMCAQYwDQYJKoZI
+			hvcNAQELBQADggIBAAdVau3qHD8+29Hd8kzUHKusmbfm8ttq4mdHYemMrgTQ
+			kj9pRHfFiOeEYNmB5HqcOm9S3karIEiyvR0qSfTQOic/F2aoGIEsLe+7P/fr
+			FGBadn3EIaRRBCoWr/BgdJCedu0EOsab5YG/UBnPUTFURiKAim580zuhwTw3
+			UxcsCe9gp80jciZDcHgL/zP6Cpf1QEGCEJbZAeSn1+YYGDJCtyi7JolaOY/j
+			+YRx/C0Hae23oSmtFmRp6l29DyJGq5ZMkblLdJlsI/iCosEpuHofkIUrazqg
+			I1tsNrCZBjhr7fZFWz13CK6eWq8h2RB46TpwKPQOZhOyOn7zcmNbtCupvMm
+			5kk45uxqhadamJtZb7INnP3hU/pmTxsa2KBrzFbaBrxxn0jMlz0HMSQhCkv
+			jB3AP5kIRVi8G3ZtPihfLK95A0TvcDV0OJNcUEbhuQyQtSk7T1nNa4uW4oK1
+			jCSYOaKVwDEdWa/45DnDpQMOSVBfpsbyQZKdqfSysKhaZx6qYYsehFX1ITFx
+			0g4BFdzxiBbgt2aBERBNPN/DwD6r19p8RedL/7f0ArdBvnPeAsA9zqSyCnxU
+			ar1/Irpz4gqQ4oK265vk0KtCwEwAi4Blz63nuq9leJPIBnPId07/RYHOmap2
+			QPIKL5X7aEYvsURGZbAqXn4jUaOi6Ut5UkW/Q672wC
+			</data>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures IIITM Secure Wi-Fi</string>
+			<key>PayloadDisplayName</key>
+			<string>IIITM Secure Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>in.ac.iiitm.secure.wifi.config.secure</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1B2C3D4-E5F6-47A8-B9C0-D1E2F3A4B5C6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>IIITM_Secure</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>21</integer>
+				</array>
+				<key>TTLSInnerAuthentication</key>
+				<string>PAP</string>
+				<key>PayloadCertificateAnchorUUID</key>
+				<array>
+					<string>D4E5F6A7-B8C9-4AD0-E1F2-A3B4C5D6E7F8</string>
+				</array>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures IIITM Secure 5G Wi-Fi</string>
+			<key>PayloadDisplayName</key>
+			<string>IIITM Secure 5G</string>
+			<key>PayloadIdentifier</key>
+			<string>in.ac.iiitm.secure.wifi.config.5g</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>B2C3D4E5-F6A7-48B9-C0D1-E2F3A4B5C6D7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>IIITM_Secure_5G</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>21</integer>
+				</array>
+				<key>TTLSInnerAuthentication</key>
+				<string>PAP</string>
+				<key>PayloadCertificateAnchorUUID</key>
+				<array>
+					<string>D4E5F6A7-B8C9-4AD0-E1F2-A3B4C5D6E7F8</string>
+				</array>
+			</dict>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Unofficial IIITM Secure Wi-Fi Configuration Profile (Community Maintained)</string>
+	<key>PayloadDisplayName</key>
+	<string>IIITM Secure Wi-Fi (Unofficial)</string>
+	<key>PayloadIdentifier</key>
+	<string>in.ac.iiitm.secure.wifi.profile</string>
+	<key>PayloadOrganization</key>
+	<string>Community Maintenance (Ayush Sah)</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C3D4E5F6-A7B8-49C9-D1E1-F2A3B4C5D6E7</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

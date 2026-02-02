@@ -1,0 +1,9 @@
+Package: iiitm-secure-wifi
+Version: 1.0.0
+Section: net
+Priority: optional
+Architecture: all
+Maintainer: Ayush Sah <imt_2022026@iiitm.ac.in>
+Description: Unofficial IIITM Secure Wi-Fi Onboarding
+  This package configures the IIITM_Secure and IIITM_Secure_5G Wi-Fi
+  networks and installs the necessary CA certificate. (Community Maintained)

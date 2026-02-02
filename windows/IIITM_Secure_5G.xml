@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1">
+	<name>IIITM_Secure_5G</name>
+	<SSIDConfig>
+		<SSID>
+			<name>IIITM_Secure_5G</name>
+		</SSID>
+	</SSIDConfig>
+	<connectionType>ESS</connectionType>
+	<connectionMode>auto</connectionMode>
+	<MSM>
+		<security>
+			<authEncryption>
+				<authentication>WPA2</authentication>
+				<encryption>AES</encryption>
+				<useOneX>true</useOneX>
+			</authEncryption>
+			<OneX xmlns="http://www.microsoft.com/networking/OneX/v1">
+				<EAPConfig>
+					<EapHostConfig xmlns="http://www.microsoft.com/encoding/eap/v1">
+						<EapMethod>
+							<Type xmlns="http://www.microsoft.com/encoding/eap/v1">21</Type>
+							<VendorId xmlns="http://www.microsoft.com/encoding/eap/v1">0</VendorId>
+							<VendorType xmlns="http://www.microsoft.com/encoding/eap/v1">0</VendorType>
+							<AuthorId xmlns="http://www.microsoft.com/encoding/eap/v1">0</AuthorId>
+						</EapMethod>
+						<Config xmlns="http://www.microsoft.com/encoding/eap/v1">
+							<EapTtls xmlns="http://www.microsoft.com/encoding/eap/ttls/v1">
+								<ServerValidation>
+									<DisableUserPromptForServerValidation>false</DisableUserPromptForServerValidation>
+									<TrustedRootCA>7fef43fb28b01b06286c0e9731d6cb82f8c877e8</TrustedRootCA>
+								</ServerValidation>
+								<InnerMethod>PAP</InnerMethod>
+							</EapTtls>
+						</Config>
+					</EapHostConfig>
+				</EAPConfig>
+			</OneX>
+		</security>
+	</MSM>
+</WLANProfile>
