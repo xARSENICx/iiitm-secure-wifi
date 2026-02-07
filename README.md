@@ -14,13 +14,7 @@ The easiest way to set up everything is using our simple CLI tool. It works on m
 
 ```bash
 # Run the setup tool
-python3 cli/main.py setup
-
-# Reset your LDAP password
-python3 cli/main.py reset
-
-# Run diagnostics if Wi-Fi isn't working
-python3 cli/main.py doctor
+python3 cli/main
 ```
 
 ## Manual Installation (OS Specific)
